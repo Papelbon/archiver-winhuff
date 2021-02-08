@@ -1,2 +1,2 @@
-# archiver-winhuff
-File archiver utility for Windows that uses an adaptive version of the classical Huffman algorithm as a compression algorithm
+# WinHUFF archiver
+[Handbook RU](https://github.com/Papelbon/archiver-winhuff/blob/main/WinHUFF/The%20WinHUFF%20Handbook%20RU.pdf)
