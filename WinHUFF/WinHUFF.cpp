@@ -12,7 +12,7 @@ USEFORM("MainForm.cpp", ArchiverForm);
 USEFORM("CreateArchiveForm.cpp", CompressionForm);
 USEFORM("ExtractArchiveForm.cpp", DecompressionForm);
 USEFORM("InfoForm.cpp", AboutForm);
-//---------------------------------------------------------------------------
+//-------------------------------------------------------------------------------------
 bool IsProcessRunning(const TCHAR* const executableName);
 //-------------------------------------------------------------------------------------
 
